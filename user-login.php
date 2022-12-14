@@ -1,5 +1,5 @@
 <?php
-  // Fetching all the Navbar Data
+  // Fetching all the Navbar Dataa
   require('./includes/nav.inc.php');
 
   // Checking if the User is logged in already
